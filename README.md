@@ -110,4 +110,4 @@
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/paulo-henrique-freitas-92a17216b/">LinkedIn</a>.
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/paulo-henrique-freitas-92a17216b/" target="_blank">LinkedIn</a>.
