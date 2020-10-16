@@ -20,7 +20,7 @@
 
 - 🚀 Fullstack Developer.
 - 👨‍💻 I'm currently working full-time at **Squadra Digital**.
-- 🌱 Learning more about and studying: **NodeJS, React and Azure**.
+- 🌱 Learning more about and studying: **NodeJS, React, React Native and Azure**.
 
 ### Languages and Tools
 
